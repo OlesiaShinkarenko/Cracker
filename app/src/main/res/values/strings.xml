@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">burglar</string>
+    <string name="tool1">Отмычка</string>
+    <string name="tool2">Щуп</string>
+    <string name="tool3">Молоток</string>
+    <string name="back">Заново</string>
+</resources>
